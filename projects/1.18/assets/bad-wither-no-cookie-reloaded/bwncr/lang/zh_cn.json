@@ -1,1 +1,5 @@
-{}
+{
+    "badwithernocookiereloaded.general.tooltip": "可以取消的全局基本声音和事件",
+    "badwithernocookiereloaded.xtra.tooltip": "可以取消的其他本地化声音",
+    "badwithernocookiereloaded.localized settings.silenceus": "示例：entity.sheep.step - 使用/listen命令来查看其他声音事件名"
+  }
